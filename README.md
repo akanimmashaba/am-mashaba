@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on django project
-- 📫 How to reach me Twitter: akani_mashaba | instagram: akani_mashaba facebook: akani Mashaba
+- 📫 How to reach me Twitter: @akani_mashaba | instagram: @akani_mashaba facebook: akani Mashaba | Facebook messanger: @mavin_mashaba
 
 <!---
 am-mashaba/am-mashaba is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
